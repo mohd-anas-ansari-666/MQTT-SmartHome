@@ -1,6 +1,9 @@
 Smart Home Monitoring Dashboard
 ===============================
 
+![Screenshot (163)](https://github.com/user-attachments/assets/683d8ef7-681b-475b-adb1-a6d784d41397)
+
+
 A complete IoT solution for monitoring and controlling your smart home environment. This project includes a responsive web dashboard built with Vite and Tailwind CSS, a Node.js backend with MQTT and MongoDB integration, and ESP32 firmware for sensor data collection and device control.
 
 Features
